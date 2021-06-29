@@ -1,4 +1,4 @@
-# The Deci Language
+# Introduction to the Deci Language
 
 The Deci language is how you interact with Deci inside the model blocks. It allows you to enter data and perform operations in a easy and intuitive way.
 

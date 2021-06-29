@@ -6,7 +6,7 @@
 
 * [Getting Started](decipad/getting-started.md)
 * [The Model Block](decipad/the-model-block.md)
-* [The Deci Language](decipad/introduction-to-the-deci-language/README.md)
+* [Introduction to the Deci Language](decipad/introduction-to-the-deci-language/README.md)
   * [Operators](decipad/introduction-to-the-deci-language/operators.md)
   * [Basic Data Types](decipad/introduction-to-the-deci-language/basic-data-types.md)
   * [Basic Operations](decipad/introduction-to-the-deci-language/basic-operations.md)

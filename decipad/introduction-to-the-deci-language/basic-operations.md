@@ -32,17 +32,17 @@ When using the `+`, `-`, `=`, `>`, `<`, `>=`, `<=` and `**` signs, white spaces 
 However, calculations with the operators `/` and `*` require white spaces.
 
 ```text
-2 / 1
+2 * (3+1)
 
-2
+8
 ```
 
 You can use percentages.
 
 ```text
-20% of 5000kg
+20% * 5000kg
 
-1000 kg
+1000kg
 ```
 
 You can define variables and use them in operations. Variable names should not contain any symbols or word operators like `per`, `by`, `through` and `date`.
