@@ -2,16 +2,6 @@
 
 * [What is Deci?](README.md)
 
-## Deci Playground
-
-* [What is the Deci Playground?](deci-playground/what-is-the-deci-playground.md)
-* [The Notebook](deci-playground/the-notebook.md)
-* [The Model Block](deci-playground/the-model-block.md)
-* [Deci Language Basics](deci-playground/deci-language-basics/README.md)
-  * [Operators](deci-playground/deci-language-basics/operators.md)
-  * [Data Types](deci-playground/deci-language-basics/data-types.md)
-  * [Operations](deci-playground/deci-language-basics/operations.md)
-
 ## Decipad
 
 * [Getting Started](decipad/getting-started.md)

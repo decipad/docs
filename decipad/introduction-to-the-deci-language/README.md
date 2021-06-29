@@ -10,6 +10,8 @@ To get started, go over the pages below to learn about some fundamental concepts
 
 {% page-ref page="basic-operations.md" %}
 
+
+
 When you feel comfortable with those, you can move on to more complex operations:
 
 {% page-ref page="columns-and-tables.md" %}

@@ -14,8 +14,6 @@ Data types are the building blocks of the Deci language. They are the elements t
 
 Deci understands that some units express a basic quantity \(e.g. length\), and knows how to convert between units of that same quantity \(e.g. meters and centimeters\).
 
-[Recognized units](https://www.notion.so/672f666f66224ad59d3a6a9fe0fedb06)
-
 ### Dates and time
 
 * Year ⇒ `Y2020`
