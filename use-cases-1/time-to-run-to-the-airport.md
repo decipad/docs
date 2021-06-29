@@ -4,9 +4,9 @@ Let's figure out what time you need to wake up in order to catch a flight. You n
 
 Here's how you can effortlessly plan your day with Deci:
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 

@@ -10,6 +10,7 @@ Operators are reserved symbols and words that allow you to perform operations in
 * Division sign ⇒ `/`
 * Exponentiation sign ⇒ `**`
 * Square root ⇒ `sqrt( )`
+* Equal to ⇒ `=`
 * Greater than ⇒ `>`
 * Greater than or equal to ⇒ `>=`
 * Less than ⇒ `<`
@@ -29,4 +30,6 @@ Operators are reserved symbols and words that allow you to perform operations in
 * `per`
 * `from`
 * `to`
+* `import`
+* `through`
 
